@@ -1,0 +1,18 @@
+#title {
+    font-size: 100px;
+    position: absolute;
+    top: 5%;
+    left: 10%;
+}
+#desc {
+    font-size: 70px;
+    position: absolute;
+    top: 35%;
+    left: 12%;
+}
+#guide {
+    font-size: 70px;
+    position: absolute;
+    top: 45%;
+    left: 12%;
+}
